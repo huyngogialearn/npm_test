@@ -1,2 +1,2 @@
-import example from './component/example';
-export {example};
+import Example from './component/example';
+export {Example};
